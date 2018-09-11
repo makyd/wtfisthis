@@ -31,6 +31,6 @@ client.on('message', (receivedMessage) => {
     }
 })
 
-bot_secret_token = "NDg5MDQ4NzgxODUwMDE3Nzky.Dnl7oA.wWsPhPa-15KtnUYuGN8W61GRat4"
+bot_secret_token = "xxxxxxxx"
 
 client.login(bot_secret_token)
